@@ -1,3 +1,4 @@
+
 #- BenFradet/dashing # temporarily ignored
 - 2m/authors
 - 2m/ciris-hocon
@@ -485,7 +486,6 @@
 - japgolly/scala-graal
 - japgolly/test-state
 - japgolly/univeq
-- jatcwang/hotpotato
 - jcranky/godmode
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
